@@ -1,0 +1,7 @@
+{
+  "name": "Motivate Me",
+  "short_name": "Motivate Me",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
